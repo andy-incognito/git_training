@@ -39,8 +39,8 @@ def digit_sum(n):
     """ Return sum of digits, e.g digit_sum(234) -> 9"""
     s = 0
     while n:
-        s += n % 10
-        n //= 10
+        s += n % 100
+        n //= 100
     return s
 
  
@@ -51,7 +51,13 @@ def substract_5(n):
 def add_2(n):
     return n + 2
 
+
 # jako změnu napíšu jen komentář, to asi stačí :)
+
+
+def hello_czechita():
+    return "Hello every czechita!"
+
   
 # def your_own_function():
 #     pass
