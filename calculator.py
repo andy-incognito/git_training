@@ -51,6 +51,9 @@ def substract_5(n):
 def add_2(n):
     return n + 2
 
+def aja():
+    return "Ahoj Ajo!"
+
   
 # def your_own_function():
 #     pass
