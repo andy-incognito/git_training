@@ -1,8 +1,8 @@
 def addition(a, b):
-    """
-    Adds two numbers, e.g 1 + 2 -> 3
-    """
-    pass
+
+    c = a+b
+    return f"Soucet ciel a,b je {c}"
+
 
 
 def substraction(a, b):
