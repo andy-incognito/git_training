@@ -5,6 +5,7 @@ def addition(a, b):
     return a + b
 
 
+
 def substraction(a, b):
     """
     Substract two numbers, e.g 1 - 2 -> -1
@@ -27,12 +28,9 @@ def division(a, b):
     if b == 0:
         raise ZeroDivisionError
 
-
+# Roman se snažil
 def power(a, b):
-    """
-    Powers number a to b. e.g 2 ** 3 -> 8 (2*2*2)
-    """
-    pass
+    return a ** b
 
 
 def digit_sum(n):
@@ -42,6 +40,26 @@ def digit_sum(n):
         s += n % 10
         n //= 10
     return s
+
+ 
+def substract_5(n):
+    return n - 5
+
+
+def add_2(n):
+    return n + 2
+
+
+def aja():
+    return "Ahoj Ajo!"
+
+
+# jako změnu napíšu jen komentář, to asi stačí :)
+
+
+def hello_czechita():
+    return "Hello every czechita!"
+
 
 # def your_own_function():
 #     pass
