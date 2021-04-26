@@ -51,6 +51,7 @@ def substract_5(n):
 def add_2(n):
     return n + 2
 
+# jako změnu napíšu jen komentář, to asi stačí :)
   
 # def your_own_function():
 #     pass
