@@ -49,6 +49,9 @@ def add_2(n):
     return n + 2
 
 
+def aja():
+    return "Ahoj Ajo!"
+
 
 # jako změnu napíšu jen komentář, to asi stačí :)
 
