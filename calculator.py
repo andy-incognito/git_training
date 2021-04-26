@@ -36,8 +36,8 @@ def digit_sum(n):
     """ Return sum of digits, e.g digit_sum(234) -> 9"""
     s = 0
     while n:
-        s += n % 100
-        n //= 100
+        s += n % 10
+        n //= 10
     return s
 
  
