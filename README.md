@@ -4,6 +4,7 @@
 
 - `git init` - [docs](https://git-scm.com/docs/git-init)
 - `git clone` - [docs](https://git-scm.com/docs/git-clone)
+- `git remote` - [docs](https://git-scm.com/docs/git-remote)
 - `git branch` - [docs](https://git-scm.com/docs/git-branch)
 - `git checkout` - [docs](https://git-scm.com/docs/git-checkout)
 - `git add` - [docs](https://git-scm.com/docs/git-add)
