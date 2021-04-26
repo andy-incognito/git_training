@@ -2,7 +2,7 @@ def addition(a, b):
     """
     Adds two numbers, e.g 1 + 2 -> 3
     """
-    pass
+    return a + b
 
 
 def substraction(a, b):
