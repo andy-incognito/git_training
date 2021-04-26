@@ -27,12 +27,9 @@ def division(a, b):
     if b == 0:
         raise ZeroDivisionError
 
-
+# Roman se snažil
 def power(a, b):
-    """
-    Powers number a to b. e.g 2 ** 3 -> 8 (2*2*2)
-    """
-    pass
+    return a ** b
 
 
 def digit_sum(n):
@@ -51,6 +48,6 @@ def substract_5(n):
 def add_2(n):
     return n + 2
 
-  
+
 # def your_own_function():
 #     pass
