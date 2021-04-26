@@ -2,7 +2,8 @@ def addition(a, b):
     """
     Adds two numbers, e.g 1 + 2 -> 3
     """
-    pass
+    return a + b
+
 
 
 def substraction(a, b):
@@ -27,12 +28,9 @@ def division(a, b):
     if b == 0:
         raise ZeroDivisionError
 
-
+# Roman se snažil
 def power(a, b):
-    """
-    Powers number a to b. e.g 2 ** 3 -> 8 (2*2*2)
-    """
-    pass
+    return a ** b
 
 
 def digit_sum(n):
@@ -54,6 +52,18 @@ def add_2(n):
 
 def hello_world():
     return "Hello world!"
+
+  
+def aja():
+    return "Ahoj Ajo!"
+
+
+# jako změnu napíšu jen komentář, to asi stačí :)
+
+
+def hello_czechita():
+    return "Hello every czechita!"
+
 
 
 # def your_own_function():
