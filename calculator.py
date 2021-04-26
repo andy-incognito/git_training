@@ -51,6 +51,10 @@ def substract_5(n):
 def add_2(n):
     return n + 2
 
-  
+
+def hello_world():
+    return "Hello world!"
+
+
 # def your_own_function():
 #     pass
