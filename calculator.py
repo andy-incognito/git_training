@@ -43,8 +43,14 @@ def digit_sum(n):
         n //= 10
     return s
 
+ 
+def substract_5(n):
+    return n - 5
+
+
 def add_2(n):
     return n + 2
 
+  
 # def your_own_function():
 #     pass
