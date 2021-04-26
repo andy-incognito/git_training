@@ -50,6 +50,10 @@ def add_2(n):
     return n + 2
 
 
+def hello_world():
+    return "Hello world!"
+
+  
 def aja():
     return "Ahoj Ajo!"
 
@@ -59,6 +63,7 @@ def aja():
 
 def hello_czechita():
     return "Hello every czechita!"
+
 
 
 # def your_own_function():
