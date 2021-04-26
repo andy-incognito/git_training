@@ -1,7 +1,8 @@
 def addition(a, b):
-
-    c = a+b
-    return f"Soucet ciel a,b je {c}"
+    """
+    Adds two numbers, e.g 1 + 2 -> 3
+    """
+    return a + b
 
 
 
